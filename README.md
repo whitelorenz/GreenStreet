@@ -27,19 +27,17 @@ The solution has no runnable component (e.g. cannot press F5) and is expected to
 Submission of your solution should be as a link to a GitHub, or other Git-based, repo that we are able to access and clone for review.
 
 
-null returns null
-empty returns null
-greater than 15 returns 15
-equals to 15 returns 15
-less than 15 returns same length
-contiguos duplicates in the same case should be reduced to single char of the same case
-contiguos duplicates of different case should be kept as they are
-$ should be replaced to £
-_ should be removed
-4 should be removed
-test all conditions at the same time should.and...
+## Scenarios
 
-AAAc$1%4cWwWkL_q$1ci3_848v3d__K
+- null returns null
+- empty returns null
+- greater than 15 returns 15
+- equals to 15 returns 15
+- less than 15 returns same length
+- contiguos duplicates in the same case should be reduced to single char of the same case
+- contiguos duplicates of different case should be kept as they are
+- $ should be replaced to £
+- _ should be removed
+- 4 should be removed
+- test all conditions at the same time should.and...
 
-Ac£1%cWwWkLq£1c
-Ac£1%cWwWkLq£1ci3_848v3d__K
